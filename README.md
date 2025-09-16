@@ -7,7 +7,7 @@ development environment.
 
 The project is meant to be a starter for your chatbot project.
 
-To use this project do the following:
+To use this do the following:
 
 1. Fork this repo
 2. From the code section of the repository click the green code button, select Codespaces
